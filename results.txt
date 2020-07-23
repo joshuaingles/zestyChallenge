@@ -1,0 +1,252 @@
+th ----------------------------
+word : the , count : 27843
+word : that , count : 11563
+word : this , count : 6900
+word : thou , count : 5549
+word : thy , count : 4034
+word : thee , count : 3181
+word : they , count : 2534
+word : then , count : 2223
+word : there , count : 2212
+word : their , count : 2079
+word : them , count : 1980
+word : than , count : 1885
+word : these , count : 1327
+word : think , count : 1074
+word : thus , count : 782
+word : though , count : 634
+word : therefore , count : 627
+word : those , count : 547
+word : thine , count : 457
+word : three , count : 411
+word : thought , count : 377
+word : thing , count : 359
+word : things , count : 334
+word : thousand , count : 325
+word : thank , count : 294
+
+fr ----------------------------
+
+word : from , count : 2670
+word : france , count : 528
+word : friends , count : 474
+word : friend , count : 446
+word : french , count : 225
+word : free , count : 195
+word : friar , count : 186
+word : fresh , count : 90
+word : freely , count : 59
+word : frown , count : 52
+word : francis , count : 51
+word : frame , count : 46
+word : friendship , count : 43
+word : fruit , count : 37
+word : friendly , count : 36
+word : frederick , count : 35
+word : freedom , count : 33
+word : fright , count : 32
+word : froth , count : 26
+word : front , count : 23
+word : frenchman , count : 22
+word : fran , count : 22
+word : frowns , count : 19
+word : frenchmen , count : 18
+word : frail , count : 18
+
+pi ----------------------------
+
+word : pity , count : 221
+word : pistol , count : 187
+word : pisanio , count : 104
+word : piece , count : 90
+word : pinch , count : 44
+word : picture , count : 43
+word : pieces , count : 39
+word : pick , count : 38
+word : pitch , count : 36
+word : pitiful , count : 31
+word : pierce , count : 28
+word : pit , count : 24
+word : pin , count : 23
+word : piteous , count : 22
+word : pindarus , count : 20
+word : pitied , count : 20
+word : pine , count : 19
+word : pipe , count : 17
+word : pilgrimage , count : 16
+word : pillow , count : 16
+word : pisa , count : 15
+word : piercing , count : 14
+word : pigeons , count : 13
+word : pig , count : 12
+word : pious , count : 10
+
+sh ----------------------------
+
+word : shall , count : 3602
+word : she , count : 2410
+word : should , count : 1580
+word : show , count : 493
+word : shame , count : 307
+word : shalt , count : 295
+word : shakespeare , count : 272
+word : shallow , count : 258
+word : shepherd , count : 126
+word : shylock , count : 110
+word : short , count : 106
+word : shows , count : 103
+word : shake , count : 102
+word : shape , count : 87
+word : shadow , count : 81
+word : shouldst , count : 73
+word : sharp , count : 71
+word : ship , count : 59
+word : shut , count : 59
+word : sheep , count : 57
+word : shore , count : 57
+word : shed , count : 51
+word : shot , count : 49
+word : shortly , count : 46
+word : shine , count : 45
+
+wu ----------------------------
+
+word : wul , count : 1
+
+ar ----------------------------
+
+word : are , count : 3917
+word : art , count : 936
+word : arms , count : 258
+word : arm , count : 188
+word : armado , count : 124
+word : army , count : 97
+word : ariel , count : 93
+word : arthur , count : 74
+word : archbishop , count : 73
+word : argument , count : 67
+word : arviragus , count : 63
+word : armour , count : 41
+word : arise , count : 39
+word : armed , count : 34
+word : arrest , count : 27
+word : arch , count : 20
+word : articles , count : 19
+word : article , count : 18
+word : arriv , count : 18
+word : array , count : 16
+word : arrant , count : 16
+word : arts , count : 14
+word : arras , count : 14
+word : archive , count : 13
+word : arrows , count : 13
+
+il ----------------------------
+
+word : ill , count : 279
+word : illinois , count : 222
+word : illyria , count : 13
+word : ills , count : 9
+word : ilion , count : 6
+word : ilium , count : 5
+word : illustrious , count : 5
+word : illusion , count : 3
+word : illustrate , count : 2
+word : illegitimate , count : 2
+word : illusions , count : 2
+word : ils , count : 2
+word : illustrated , count : 1
+word : illo , count : 1
+word : illumineth , count : 1
+word : ild , count : 1
+word : ilbow , count : 1
+word : illuminate , count : 1
+word : illness , count : 1
+word : illyrian , count : 1
+word : illiterate , count : 1
+word : illume , count : 1
+word : illumin , count : 1
+
+ne ----------------------------
+
+word : never , count : 1020
+word : news , count : 318
+word : new , count : 276
+word : near , count : 269
+word : neither , count : 186
+word : need , count : 185
+word : next , count : 166
+word : needs , count : 147
+word : neck , count : 74
+word : nestor , count : 68
+word : nerissa , count : 66
+word : ned , count : 60
+word : neighbour , count : 58
+word : necessity , count : 37
+word : nephew , count : 36
+word : newly , count : 30
+word : needful , count : 29
+word : nest , count : 24
+word : neglect , count : 24
+word : neighbours , count : 22
+word : nearer , count : 20
+word : necessary , count : 20
+word : neptune , count : 19
+word : neat , count : 18
+word : negligence , count : 16
+
+se ----------------------------
+
+word : see , count : 1463
+word : second , count : 574
+word : set , count : 474
+word : service , count : 445
+word : servant , count : 429
+word : seen , count : 268
+word : sent , count : 268
+word : send , count : 262
+word : sea , count : 247
+word : seek , count : 235
+word : seem , count : 216
+word : self , count : 212
+word : serve , count : 187
+word : sebastian , count : 140
+word : sense , count : 125
+word : seems , count : 116
+word : servants , count : 110
+word : seal , count : 96
+word : senator , count : 91
+word : several , count : 81
+word : serv , count : 76
+word : seven , count : 72
+word : secret , count : 65
+word : seeming , count : 62
+word : senators , count : 59
+
+pl ----------------------------
+
+word : place , count : 458
+word : please , count : 395
+word : play , count : 356
+word : pleasure , count : 180
+word : pluck , count : 139
+word : plain , count : 123
+word : plague , count : 94
+word : plantagenet , count : 77
+word : pleas , count : 69
+word : plot , count : 54
+word : plead , count : 48
+word : places , count : 39
+word : pleasures , count : 35
+word : plays , count : 35
+word : players , count : 35
+word : pleasant , count : 35
+word : plebeians , count : 25
+word : plant , count : 23
+word : pleasing , count : 22
+word : playing , count : 21
+word : plainly , count : 20
+word : pledge , count : 19
+word : pleases , count : 18
+word : plac , count : 17
+word : plains , count : 16
