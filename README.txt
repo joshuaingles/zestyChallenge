@@ -1,6 +1,6 @@
 -- Instructions -- 
 - Download web service from GitHub
--- URL:
+-- URL: https://github.com/joshuaingles/zestyChallenge
 
 - Insure that port 9000 is clear or change port number in server.go -> main() -> http.ListenAndServe()
 
