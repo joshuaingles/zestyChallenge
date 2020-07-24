@@ -1,10 +1,20 @@
+-- Project Info --
+- Author: Joshua Ingles
+- Built: 23Jul20
+- Stack:
+-- Go
+
+-- About --
+This is my work for the ZestyChallenge ( https://github.com/zesty-io/gists/tree/master/code-challenge-autocomplete ). The challenge was to create an autocomplete web service in Go that used the entire works of Shakespeare as a reference. The service takes in a term ( i.e. "th" or "fr" ) and finds the top 25 matches based on word frequency. If less than 25 words match the term, then it shows however many words match the term ordered from highest occurance to lowest occurance of the word.
+
+
 -- Instructions -- 
 - Download web service from GitHub
 -- URL: https://github.com/joshuaingles/zestyChallenge
 
 - Insure that port 9000 is clear or change port number in server.go -> main() -> http.ListenAndServe()
 
-- Open a terminal and navigate to the zestyChallenge_Ingles folder
+- Open a terminal and navigate to the zestyChallenge directory
 
 - run server.go
 
@@ -13,9 +23,11 @@
 
 - Results will be displayed in the browser window and output to the server.go terminal
 
+
 -- cURL Example ---
 
 curl http://localhost:9000/autocomplete?term=pl
+
 
 -- References --
 
