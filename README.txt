@@ -5,7 +5,10 @@
 -- Go
 
 -- About --
-This is my work for the ZestyChallenge ( https://github.com/zesty-io/gists/tree/master/code-challenge-autocomplete ). The challenge was to create an autocomplete web service in Go that used the entire works of Shakespeare as a reference. The service takes in a term ( i.e. "th" or "fr" ) and finds the top 25 matches based on word frequency. If less than 25 words match the term, then it shows however many words match the term ordered from highest occurance to lowest occurance of the word.
+This is my work for the ZestyChallenge ( https://github.com/zesty-io/gists/tree/master/code-challenge-autocomplete ).
+The challenge was to create an autocomplete web service in Go that used the entire works of Shakespeare as a reference.
+The service takes in a term ( i.e. "th" or "fr" ) and finds the top 25 matches based on word frequency.
+If less than 25 words match the term, then it shows however many words match the term ordered from highest to lowest occurance of the word.
 
 
 -- Instructions -- 
