@@ -24,7 +24,7 @@ If less than 25 words match the term, then it shows however many words match the
 - Open a browser and go to http://localhost:{PORT NUMBER}/autocomplete?term={TERM} or use below cURL example
 -- Replace {PORT NUMBER} if changed in server.go and replace {TERM} with desired search term
 
-- Results will be displayed in the browser window and output to the server.go terminal
+- Results will be displayed in the browser window and output to the server.go terminal.
 
 
 -- cURL Example ---
